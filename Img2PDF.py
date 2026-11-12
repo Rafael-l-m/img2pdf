@@ -399,3 +399,5 @@ if __name__ == "__main__":
         dpi=args.dpi,
         custom__size=custom_size
     )
+
+# pyinstaller --onefile --name img2pdf img2pdf.py
