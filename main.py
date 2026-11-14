@@ -129,3 +129,5 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
+    # pyinstaller --clean --noconfirm --onefile --console --name img2pdf main.py
