@@ -1,6 +1,6 @@
-# img2pdf
+# Batch Image to PDF Converter
 
-Batch image-to-PDF converter.
+A simple Python command-line tool that converts multiple images into a single PDF file.
 
 ## Requirements
 
