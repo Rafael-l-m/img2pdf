@@ -23,7 +23,7 @@ Convert every supported image in a directory:
 python main.py --input images_dir --output output.pdf
 ```
 ```bash
-img2pdf --input images_dir --output output.pdf
+./img2pdf --input images_dir --output output.pdf
 ```
 
 Use a custom page size (millimeters):
@@ -32,7 +32,7 @@ Use a custom page size (millimeters):
 python main.py --input images_dir --paper CUSTOM --width 210 --height 297
 ```
 ```bash
-img2pdf --input images_dir --paper CUSTOM --width 210 --height 297
+./img2pdf --input images_dir --paper CUSTOM --width 210 --height 297
 ```
 
 Use JSON to define image order:
@@ -41,7 +41,7 @@ Use JSON to define image order:
 python main.py --json images.json
 ```
 ```bash
-img2pdf --json images.json
+./img2pdf --json images.json
 ```
 
 Example `images.json`:
