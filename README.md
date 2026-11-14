@@ -6,7 +6,7 @@ A simple Python command-line tool that converts multiple images into a single PD
 ## Features
 
 - Convert multiple images into a single PDF.
-- Support `JPG`, `JPEG`, `PNG`, `WEBP` and `BMP` formats.
+- Support `JPG`, `JPEG`, `PNG`, `WEBP`, `BMP` and `tiff` formats.
 - Natural sorting, filename sorting and regex-based sorting.
 - Recursive image search in subdirectories.
 - Support multiple paper sizes (`A3`, `A4`, `A5`, `Letter` and `Legal`).
